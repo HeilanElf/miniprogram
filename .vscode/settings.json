@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 100,
+            "driver": "SQLite",
+            "name": "wangye",
+            "group": "demo",
+            "database": "${workspaceFolder:miniprogram}/mindata.sqlite"
+        }
+    ]
+}
